@@ -67,7 +67,9 @@
 <li>虚线：相较于泛化继承来说，关系较弱。一个类可以实现多个接口。</li>
 <li>空心三角箭头：箭头指向接口。</li>
 </ul>
-<p><strong>示例：</strong><br><img src="https://github.com/Munannote/image/blob/master/15775973329413.jpg?raw=true" alt=""><br><img src="media/15775973329413.jpg" alt=""></p>
+<p><strong>示例：</strong><br><img src="https://github.com/Munannote/image/blob/master/15775973329413.jpg?raw=true" alt=""></p>
+<p><img src="https://github.com/Munannote/image/blob/master/15775973329413.jpg?raw=true" alt=""></p>
+<p><img src="media/15775973329413.jpg" alt=""></p>
 <h4 id="3-5-聚合关系（Aggregation）"><a href="#3-5-聚合关系（Aggregation）" class="headerlink" title="3.5 聚合关系（Aggregation）"></a>3.5 聚合关系（Aggregation）</h4><p>它是一种弱关联，整体和部分可以独立存在。</p>
 <p><strong>使用方式：</strong></p>
 <ul>
