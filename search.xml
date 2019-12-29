@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>a-guide-to-scientific-uml-mapping</title>
+    <title>科学使用UML建图指南</title>
     <url>/2019/12/29/a-guide-to-scientific-uml-mapping/</url>
-    <content><![CDATA[<h1 id="科学使用UML建图指南"><a href="#科学使用UML建图指南" class="headerlink" title="科学使用UML建图指南"></a>科学使用UML建图指南</h1><h2 id="1-UML是什么？"><a href="#1-UML是什么？" class="headerlink" title="1. UML是什么？"></a>1. UML是什么？</h2><p>UML，全称为统一建模语言(Unified Modeling Language)，用图形化、可视化来简易表达复杂的代码，在程序设计架构中经常使用。<br>我们今天就来分享下如何科学的使用UML建图。</p>
+    <content><![CDATA[<h2 id="1-UML是什么？"><a href="#1-UML是什么？" class="headerlink" title="1. UML是什么？"></a>1. UML是什么？</h2><p>UML，全称为统一建模语言(Unified Modeling Language)，用图形化、可视化来简易表达复杂的代码，在程序设计架构中经常使用。<br>我们今天就来分享下如何科学的使用UML建图。</p>
 <h2 id="2-UML工具使用"><a href="#2-UML工具使用" class="headerlink" title="2. UML工具使用"></a>2. UML工具使用</h2><p>支持UML建图的工具很多，笔者试用了Mac下众多软件，从易用性、功能强大灯方面出发，推荐StarUML来作为主力见图工具。</p>
 <p>####2.1 安装破解<br>下载地址：<a href="http://staruml.io/" target="_blank" rel="noopener">http://staruml.io/</a><br>安装成功后，可以使用如下教程破解。</p>
 <ul>
@@ -92,6 +92,9 @@
 </ul>
 <p><strong>示例：</strong><br><img src="media/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-12-29%2013.40.18.png" alt="屏幕快照 2019-12-29 13.40.18"></p>
 ]]></content>
+      <categories>
+        <category>九州之理</category>
+      </categories>
   </entry>
   <entry>
     <title>我的三次里程碑</title>
