@@ -27,7 +27,7 @@
 <h4 id="3-1-依赖关系（Dependency）"><a href="#3-1-依赖关系（Dependency）" class="headerlink" title="3.1 依赖关系（Dependency）"></a>3.1 依赖关系（Dependency）</h4><p>表示使用关系，即A类的某个方法的参数是B类，B类在A类中都是以局部变量的形式存在的。<br>A类中有B类型的局部变量，A类依赖于B类，A仅仅是用到了B。<br>A use B，A也可以不使用B，A对象没使用某个方法的时候，就可以不持有B。</p>
 <p><strong>使用方式：</strong></p>
 <ul>
-<li>A类是B类方法中的一个参数//最常见</li>
+<li>A类是B类方法中的一个参数</li>
 <li>A类是B类中某种方法的局部变量</li>
 <li>A类向B类发送消息，从而影响B类发生变化</li>
 </ul>
