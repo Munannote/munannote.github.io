@@ -36,7 +36,7 @@
 <li>虚线：虚线表示依赖，关系较弱，A only use B。</li>
 <li>箭头：A使用了B，则A箭头指向B。</li>
 </ul>
-<p><strong>代码示例：</strong><br>![屏幕快照 2019-12-29 13.56.13](<a href="https://github.com/Munannote/image/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-12-29%2013.56.13.png?raw=true" target="_blank" rel="noopener">https://github.com/Munannote/image/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-12-29%2013.56.13.png?raw=true</a></p>
+<p><strong>代码示例：</strong><br><img src="https://github.com/Munannote/image/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-12-29%2013.56.13.png?raw=true" alt="屏幕快照 2019-12-29 13.56.13"></p>
 <h4 id="3-2-关联关系（Association）"><a href="#3-2-关联关系（Association）" class="headerlink" title="3.2 关联关系（Association）"></a>3.2 关联关系（Association）</h4><p>类与类之间最常见简单的关系，A类中持有了B类的引用，就说明A类和B类发生了关联关系。<br>A has B。B作为组员变量，一旦new A，则A对象必然有持有B。<br>关联可以是一对一，一对多，多对一，多对多等各种关系。（1:1 1:n）</p>
 <p><strong>使用方式：</strong></p>
 <ul>
@@ -47,7 +47,8 @@
 <li>实线：稳定的相关联，有A就产生了B，用实线表示。</li>
 <li>箭头：A持有B，A指向B。</li>
 </ul>
-<p><strong>代码示例：</strong><br><img src="media/https://github.com/Munannote/image/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-12-29%2013.59.26.png?raw=true" alt="屏幕快照 2019-12-29 13.59.26"></p>
+<p><strong>代码示例：</strong></p>
+<p><img src="media/https://github.com/Munannote/image/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-12-29%2013.59.26.png?raw=true" alt="屏幕快照 2019-12-29 13.59.26"></p>
 <h4 id="3-3-泛化、继承关系（Generalization）"><a href="#3-3-泛化、继承关系（Generalization）" class="headerlink" title="3.3 泛化、继承关系（Generalization）"></a>3.3 泛化、继承关系（Generalization）</h4><p>表示继承关系, 表示类/接口对父类/接口的功能扩展。<br><strong>使用方式：</strong></p>
 <ul>
 <li>java语法中的<code>extends</code>, 用来扩展父类或父接口的功能。</li>
